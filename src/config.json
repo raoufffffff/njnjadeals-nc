@@ -14,9 +14,9 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#ffffff",
-    "namecolor": "#000000",
-    "barcolor": "#333"
+    "headercolor": "#f6efef",
+    "namecolor": "#c8591e",
+    "barcolor": "#cb2525"
   },
   "thanks": {
     "img": true,
