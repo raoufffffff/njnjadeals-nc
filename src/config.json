@@ -1,7 +1,7 @@
 {
   "id": "69001675fefd56f7ee32e2c2",
   "logo": "https://i.ibb.co/8LQ4fN5J/blob.webp",
-  "store_name": "next-commerce",
+  "store_name": "ninja deals",
   "main_color": "#001637ff",
   "phone": "0554562805",
   "repoName": "njnjadeals-nc",
@@ -34,5 +34,7 @@
   },
   "whatsapp": "799617314",
   "viber": "",
-  "snapchat": ""
+  "snapchat": "",
+  "language": "ar",
+  "EnableBerue": false
 }
