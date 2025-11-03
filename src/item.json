@@ -13,16 +13,7 @@
       "https://i.ibb.co/8LCZSy6T/blob.webp"
     ],
     "Variants": [],
-    "Offers": [
-      {
-        "id": 0,
-        "name": "العناية اليومية لقدميك",
-        "Quantity": "10",
-        "price": "4650",
-        "freedelevry": false,
-        "topOffer": true
-      }
-    ],
+    "Offers": [],
     "show": true,
     "type": "",
     "images": [
@@ -32,7 +23,7 @@
       "https://i.ibb.co/XxTYQXVn/blob.webp",
       "https://i.ibb.co/MDRPKf85/blob.webp"
     ],
-    "visit": 2,
+    "visit": 3,
     "orders": 0,
     "date": "2025-11-03T17:51:51.378Z",
     "__v": 0
