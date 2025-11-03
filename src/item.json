@@ -3,7 +3,7 @@
     "imgs": [],
     "_id": "6908ebb7076e9c7c78e89faa",
     "userId": "69001675fefd56f7ee32e2c2",
-    "name": "مجفف أحذية منزلي ذكي محمول قابل للطي",
+    "name": "مجفف أحذية منزلي ذكي محمول قابل للطي + 🦶 واقي الكعب السيليكوني",
     "price": 4650,
     "ShortDescription": "جودة عالية ✅\n\nسهل الاستخدام ⚙️\n\nمناسب لكل الفئات 👌",
     "LadingPages": [
@@ -13,7 +13,16 @@
       "https://i.ibb.co/8LCZSy6T/blob.webp"
     ],
     "Variants": [],
-    "Offers": [],
+    "Offers": [
+      {
+        "id": 0,
+        "name": "العناية اليومية لقدميك",
+        "Quantity": "10",
+        "price": "4650",
+        "freedelevry": false,
+        "topOffer": true
+      }
+    ],
     "show": true,
     "type": "",
     "images": [
@@ -23,7 +32,7 @@
       "https://i.ibb.co/XxTYQXVn/blob.webp",
       "https://i.ibb.co/MDRPKf85/blob.webp"
     ],
-    "visit": 1,
+    "visit": 2,
     "orders": 0,
     "date": "2025-11-03T17:51:51.378Z",
     "__v": 0
